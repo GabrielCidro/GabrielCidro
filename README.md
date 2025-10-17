@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Moura Cidro, sou de São Paulo e atualmente curso Ciência da Computação, além de já ser formado em Tecnologia da Informação. Tenho experiência com atendimento de chamados, manutenção de computadores e automação de processos com Python, SQL, VBA e Power Automate. Desenvolvo dashboards com Power BI e possuo conhecimento em JavaScript, TypeScript, React e Next.js.
-
+Me chamo Gabriel Moura Cidro, sou de São Paulo e atualmente curso Ciência da Computação, além de já ser formado em Tecnologia da Informação. Experiência com automação de processos com Python, VBA e Power Automate. Desenvolvo dashboards com Power BI e possuo conhecimento em JavaScript, TypeScript, React e Next.js.
+Além de também experiência com banco de dados via AWS com o Athena ou PostgreSQL.
 ---
 
 ### 🤖 Linguagens e Tecnologias
