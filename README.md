@@ -1,26 +1,18 @@
-**`Auditor de Ti/Analista de Dados`**
+**`IT Auditor / Data Analyst`**
 
 My name is Gabriel Moura Cidro. I’m from São Paulo and currently pursuing a degree in Computer Science, having already graduated in Information Technology. I have solid experience in process automation using Python, VBA, and Power Automate — from personal projects to corporate automations. I develop dashboards with Power BI and QuickSight, and have knowledge in JavaScript, TypeScript, C#, React, and Next.js. I also have experience working with databases on AWS using Athena and PostgreSQL.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Languages and Technologies
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -80,12 +72,19 @@ My name is Gabriel Moura Cidro. I’m from São Paulo and currently pursuing a d
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 <br/>
 <br/>
