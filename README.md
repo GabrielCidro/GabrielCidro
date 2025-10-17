@@ -1,9 +1,7 @@
-# 👩🏻‍💻 Gabriel Cidro
-
 **`Auditor de Ti/Analista de Dados`**
 
-Me chamo Gabriel Moura Cidro, sou de São Paulo e atualmente curso Ciência da Computação, além de já ser formado em Tecnologia da Informação. Experiência com automação de processos com Python, VBA e Power Automate. Desenvolvo dashboards com Power BI e possuo conhecimento em JavaScript, TypeScript, React e Next.js.
-Além de também experiência com banco de dados via AWS com o Athena ou PostgreSQL.
+Me chamo Gabriel Moura Cidro, sou de São Paulo e atualmente curso Ciência da Computação, além de já ser formado em Tecnologia da Informação. Tenho uma sólida experiência com automação de processos com Python, VBA e Power Automate desde de projetos pessoais á automações dentro da empresa. Desenvolvo dashboards com Power BI e QUICKSIGHT e possuo conhecimento em JavaScript, TypeScript, C#, React e Next.js. Além de também experiência com banco de dados via AWS com o Athena ou PostgreSQL.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
